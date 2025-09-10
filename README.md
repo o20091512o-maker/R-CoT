@@ -30,7 +30,13 @@ The included Python code is a prototype that demonstrates how R-CoT can automati
 - Suggest optimal settings.  
 - Generate a structured R-CoT prompt accordingly.  
 
-*Note:*  
+### Note on the prototype
+
+This Python implementation is a *research prototype* intended for demonstration purposes.  
+
+- The parameter values are directly documented from *experimental runs in Google AI Studio* and reflect the actual tested configurations.  
+- The code is *not optimized for production* and may contain redundancies or simplified logic.  
+- Its purpose is to illustrate how R-CoT can classify tasks and map them to empirically validated settings.  
 This code is not a final product. It currently supports only a limited set of tasks and is meant for demonstration and research purposes.  
 Future versions can expand its coverage and usability.  
 Link: https://drive.google.com/uc?export=download&id=1q0oT9imoiPdGbSkCsByxfGPxCJpaoBgC
