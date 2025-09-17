@@ -4,7 +4,7 @@
 The research paper is the core scientific document that introduces and explains the R-CoT technique.  
 It provides the theoretical foundation, the methodology, and the evaluation results.  
 This paper is essential for understanding the motivation and scientific contribution of R-CoT.  
-Link: https://drive.google.com/uc?export=download&id=1mRwj-CHO9sLzL1NU8WMw15EQsVYpgPyr
+Link: https://drive.google.com/uc?export=download&id=1cYzZFQHY-LgN3gaLsT8KBbQgRrIDusW-
 
 ---
 
