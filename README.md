@@ -12,7 +12,7 @@ Link: https://drive.google.com/uc?export=download&id=1cYzZFQHY-LgN3gaLsT8KBbQgRr
 This file contains the recommended model parameters (e.g., temperature, top-p, token budget).  
 It ensures consistency and reproducibility when applying R-CoT across different tasks.  
 By following these settings, users can expect stable and high-quality results.  
-Link: https://docs.google.com/uc?export=download&id=1Y3Puc72Nb7PA9eIlC7iG4URhrEdfWl6YsktHQMfZWKU
+Link: https://drive.google.com/uc?export=download&id=1L3CHADVaHr8b1p4vK3DQZ2q8phNay906
 
 ---
 
